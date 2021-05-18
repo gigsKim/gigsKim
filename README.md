@@ -19,5 +19,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:givomggin@gmail.com)](mailto:givomggin@gmail.com)
 [![Git Hub Badge](http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://github.com/gigsKim)](https://github.com/gigsKim)
 <!-- footer -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=212C42&height=250&section=header&text=Kim%20Gihun&fontSize=70&animation=fadeIn&fontColor=FFBB00)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=212C42&height=250&section=header&text=fontSize=70&animation=fadeIn&fontColor=FFBB00)
 </div>
