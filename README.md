@@ -1,5 +1,7 @@
-Hi!!
-My name is GihunKim!!
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFE00&height=100&section=header&text=Kim%20Gihun&fontSize=70&animation=fadeIn&fontColor=FFBB00)
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 <!--
 **gigsKim/gigsKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
