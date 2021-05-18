@@ -10,5 +10,4 @@
 [![Git Hub Badge](http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://github.com/gigsKim)](https://github.com/gigsKim)
 
   
- ![header](https://capsule-render.vercel.app/api?type=soft&color=FFBF00&height=10&section=footer&fontSize=80&animation=fadeIn&fontColor=585858)
 </div>
