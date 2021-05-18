@@ -1,5 +1,6 @@
 <div align=center>
-<!-- header -->
+
+ 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=212C42&height=100&section=header&text=Kim%20Gihun&fontSize=70&animation=fadeIn&fontColor=FFBB00)
 
 
